@@ -46,7 +46,7 @@ docker build -t <name> .
 ```
 
 ```bash
-docker run -p 8000:800 <name>
+docker run -p 8000:8000 <name>
 ```
 To go inside a container
 ```bash
